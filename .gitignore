@@ -1,0 +1,9 @@
+# Node modules (huge & unnecessary for GitHub)
+node_modules/
+
+# Environment variables (optional, if using .env)
+.env
+
+# System/IDE files (optional, but neat)
+.DS_Store
+*.log
